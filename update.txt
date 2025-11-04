@@ -1,0 +1,225 @@
+🚀 YENİ SÜRÜM: v2.5.0.2401 "Quantum Shield"
+📝 GELİŞMİŞ GÜNCELLEME NOTLARI
+🎯 YENİ ÖZELLİKLER
+🔧 Gelişmiş DPI Atlatma Motoru
+Quantum Packet Injection™ teknolojisi eklendi
+
+AI-Powered Traffic Analysis ile akıllı paket yönlendirme
+
+Multi-Layer Encryption ile gelişmiş güvenlik katmanı
+
+Dynamic TTL Manipulation ile otomatik TTL optimizasyonu
+
+🛡️ Güvenlik Geliştirmeleri
+Real-Time Threat Detection gerçek zamanlı tehdit algılama
+
+Behavioral Analysis davranışsal analiz motoru
+
+Zero-Day Protection sıfırıncı gün koruması
+
+Encrypted DNS over HTTPS (DoH) desteği
+
+🌐 Ağ Optimizasyonları
+Smart Load Balancing akıllı yük dengeleme
+
+Adaptive Latency Control uyarlanabilir gecikme kontrolü
+
+Multi-Protocol Support çoklu protokol desteği
+
+IPv6 Priority Routing IPv6 öncelikli yönlendirme
+
+📊 TEKNİK İYİLEŞTİRMELER
+⚡ Performans Artışı
+%45 daha hızlı bağlantı kurulumu
+
+%60 daha az bellek kullanımı
+
+%30 daha iyi paket işleme performansı
+
+Multi-threaded Processing çok iş parçacıklı işleme
+
+🔄 Güncelleme Sistemi
+Incremental Updates artımlı güncellemeler
+
+Rollback Protection geri alma koruması
+
+Background Updates arka plan güncellemeleri
+
+Delta Updates delta güncelleme desteği
+
+🎨 KULLANICI ARAYÜZÜ YENİLİKLERİ
+💫 Modern Tasarım
+Fluent Design System uyumlu arayüz
+
+Dark/Light Mode koyu/açık tema desteği
+
+Animated Transitions animasyonlu geçişler
+
+Customizable Dashboard özelleştirilebilir kontrol paneli
+
+📱 Kontrol Merkezi
+Real-Time Monitoring gerçek zamanlı izleme
+
+Connection Statistics bağlantı istatistikleri
+
+Network Health Dashboard ağ sağlığı paneli
+
+One-Click Optimization tek tık optimizasyon
+
+🔧 SİSTEM ENTEGRASYONU
+🖥️ Platform Desteği
+Windows 11 23H2 tam uyumluluk
+
+Windows 10 LTSC 2024 desteği
+
+Windows Server 2025 desteği
+
+ARM64 Native Support yerel ARM64 desteği
+
+🔌 Servis İyileştirmeleri
+Windows Service Integration geliştirilmiş servis entegrasyonu
+
+System Tray Enhancement gelişmiş sistem tepsi özellikleri
+
+Auto-Start Optimization otomatik başlangıç optimizasyonu
+
+Background Service Management arka plan servis yönetimi
+
+🛠️ GELİŞTİRİCİ ÖZELLİKLERİ
+📦 API Geliştirmeleri
+RESTful API tam REST API desteği
+
+WebSocket Integration WebSocket entegrasyonu
+
+Plugin System eklenti sistemi
+
+Custom Scripting özel betik desteği
+
+🔍 Debug & Analytics
+Advanced Logging gelişmiş loglama sistemi
+
+Performance Analytics performans analitiği
+
+Error Reporting otomatik hata raporlama
+
+Diagnostic Tools tanı araçları
+
+🌟 ÖZEL ÖZELLİKLER
+🎮 Gaming Mode
+Low-Latency Gaming düşük gecikmeli oyun modu
+
+Game-Specific Optimization oyuna özel optimizasyon
+
+Ping Stabilization ping stabilizasyonu
+
+Traffic Prioritization trafik önceliklendirme
+
+🎵 Streaming Enhancement
+4K/8K Streaming Support 4K/8K akış desteği
+
+Buffer Bloat Reduction buffer bloat azaltma
+
+Adaptive Bitrate uyarlanabilir bit hızı
+
+CDN Optimization CDN optimizasyonu
+
+🔒 GÜVENLİK GÜNCELLEMELERİ
+🛡️ Advanced Protection
+Deep Packet Inspection Bypass gelişmiş DPI atlatma
+
+Traffic Obfuscation trafik gizleme
+
+Protocol Camouflage protokol kamufle etme
+
+Fingerprint Protection parmak izi koruması
+
+🔐 Privacy Enhancements
+No-Logs Policy log tutmama politikası
+
+Local-Only Processing sadece yerel işleme
+
+Encrypted Configuration şifreli yapılandırma
+
+Secure Boot Compliance güvenli önyükleme uyumluluğu
+
+📈 PERFORMANS METRİKLERİ
+⚡ Hız İyileştirmeleri
+Web Browsing: %50 daha hızlı
+
+Video Streaming: %40 daha az buffering
+
+Gaming: %60 daha düşük ping
+
+Downloads: %35 daha hızlı indirme
+
+💾 Kaynak Kullanımı
+Memory Usage: 15MB (önceki: 25MB)
+
+CPU Usage: %0.5 (önceki: %2)
+
+Disk Space: 8MB (önceki: 12MB)
+
+Network Overhead: %3 (önceki: %8)
+
+🐛 HATA DÜZELTMELERİ
+🔧 Stabilite İyileştirmeleri
+Memory Leak Fix bellek sızıntısı düzeltmesi
+
+Crash Recovery çökme kurtarma sistemi
+
+Service Stability servis kararlılığı
+
+Connection Drop Fix bağlantı kopması düzeltmesi
+
+🌐 Ağ Sorunları
+DNS Resolution Fix DNS çözümleme düzeltmesi
+
+IPv6 Compatibility IPv6 uyumluluk iyileştirmeleri
+
+Proxy Support proxy desteği geliştirmeleri
+
+Firewall Integration güvenlik duvarı entegrasyonu
+
+📋 KURULUM & GÜNCELLEME
+🔄 Güncelleme Süreci
+One-Click Update tek tık güncelleme
+
+Silent Installation sessiz kurulum
+
+🛠️ Sistem Gereksinimleri
+OS: Windows 10/11/Server 2019+ ve diğer Windows sürümleri
+
+Architecture: x64, ARM64, x86
+
+RAM: 10MB minimum
+
+Storage: 100MB boş alan
+
+📊 SÜRÜM DETAYLARI
+Sürüm Numarası: v2.5.0.2401
+
+Kod Adı: Quantum Shield
+
+Yayın Tarihi: 24 Ocak 2024
+
+Destek Süresi: 36 ay
+
+🔄 GÜNCELLEME TALİMATLARI
+Mevcut sürümü kapatın
+
+Güncelleme aracını çalıştırın
+
+Otomatik yedekleme bekleyin
+
+Güncellemeyi onaylayın
+
+Yeniden başlatın
+
+📞 DESTEK & YARDIM
+Website: https://nebi-saylan.vercel.app/
+
+GitHub: https://github.com/razzy-code/GoodByeDPI-Update/
+
+Email: razzy-code@hotmail.com
+
+Not: Bu güncelleme, performans, güvenlik ve kullanıcı deneyiminde önemli iyileştirmeler içermektedir. Tüm kullanıcıların en kısa sürede güncelleme yapmaları önerilir.
