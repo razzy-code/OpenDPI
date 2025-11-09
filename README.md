@@ -1,6 +1,6 @@
 # OpenDPI - Gelişmiş DPI Atlatma ve Ağ Optimizasyon Çözümü
 
-![OpenDPI Logo](https://chatgpt.com/backend-api/estuary/content?id=file_00000000c7bc71f4a66b72f1ffd71dc4&ts=489638&p=fs&cid=1&sig=2c4af3a4b5603d2deb4afbc1babcb5fdda2938a2e7c0f59a02caa2ed8744f111&v=0)
+![OpenDPI Logo](https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png)
 *Gizliliğiniz ve İnternet Özgürlüğünüz İçin Tasarlandı*
 
 ## 📖 İçindekiler
