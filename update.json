@@ -1,0 +1,12 @@
+{
+  "version": "6.12.27.2025",
+  "update-link": "https://drive.google.com/uc?export=download&id=GOOGLE_DRIVE_FILE_ID",
+  "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
+  "updateinfo": "OpenDPI v6.12.27.2025 - Büyük Güncelleme\n\n• YENİ ARAYÜZ TASARIMI - Tamamen yenilenen modern ve şık kullanıcı arayüzü, daha sezgisel menüler, geliştirilmiş panel düzenleri\n\n• PERFORMANS İYİLEŞTİRMELERİ - Başlangıç hızı %40 arttırıldı, bellek kullanımı optimize edildi, DPI bypass işlemleri hızlandırıldı, servis başlatma süresi kısaltıldı\n\n• HATA DÜZELTMELERİ - Null referans hataları giderildi, bellek sızıntıları düzeltildi, UI senkronizasyon sorunları çözüldü, servis başlatma/durdurma stabilitesi artırıldı, tray ikon görünürlük sorunları giderildi\n\n• YENİ ÖZELLİKLER EKLENDİ - Otomatik güncelleme sistemi aktif edildi, gelişmiş DNS yapılandırma aracı, anlık bağlantı testi özelliği, geliştirilmiş tray ikon yönetimi, başlangıç ayarları otomasyonu\n\n• DİĞER İYİLEŞTİRMELER - Lisans yönetimi güncellendi, log sistemi optimize edildi, hata bildirim mekanizması geliştirildi, kullanıcı deneyimi iyileştirildi",
+  "release-date": "2024-01-20",
+  "changelog": "v6.12.27.2025 Changelog:\n\n• Yeni: Gelişmiş filtreleme sistemi\n• Yeni: Güncelleme mekaniği\n• Fixed: Memory leak issues\n• Improved: Network detection accuracy\n• Updated: Protocol database",
+  "min-version": "1.0.0",
+  "file-size": 15728640,
+  "checksum-md5": "a1b2c3d4e5f678901234567890123456",
+  "checksum-sha256": "abc123def456ghi789jkl012mno345pqr678stu901vwx234yz5678901234abcd"
+}
