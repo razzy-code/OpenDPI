@@ -3,7 +3,7 @@
   "update-link": "https://drive.google.com/uc?export=download&id=1FBzPGOG_-QgB6m7cjYiYu6lDZmRKKtwm",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
   "updateinfo": "OpenDPI v7.151.69.295 - Çeşitli Hata Düzeltmeleri ve Arayüz Güncellemeleri",
-  "release-date": "2025-12-21",
+  "release-date": "2025-12-22",
   "changelog": "v7.151.69.295 Changelog:\\n\\n• Küçük çaplı performans iyileştirmeleri eklendi. \\n\\n• Arayüzde %35 daha hızlı açılma mekaniği eklendi. \\n\\n• Çalışma süresi yanlış gözüküyordu, düzeltildi.",
   "min-version": "1.0.0",
   "file-size": 2867726,
