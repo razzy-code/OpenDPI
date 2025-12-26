@@ -1,13 +1,13 @@
 {
-  "version": "10.331.81.512",
-  "update-link": "https://github.com/razzy-code/OpenDPI/releases/download/OpenDPI-Update/UPDATE.zip",
+  "version": "11.331.81.512",
+  "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v10.331.81.512 - BÜYÜK GÜNCELLEME\n\n🚀 YENİLİKLER:\n• Discord Rich Presence Desteği\n• Yeni Nesil Hız Testi\n• Gelişmiş DNS Motoru\n• Kökten Değişen Lisans Sistemi\n\n🔧 İYİLEŞTİRMELER:\n• Performans Optimizasyonları\n• Ağ Analizi Doğruluğu\n• Kullanıcı Deneyimi\n• Güvenlik Önlemleri\n\n⚠️ DİKKAT:\n• Lisanslarınız yenilenecektir\n• Yeni keyler e-posta adresinize veya özelden gönderilecektir\n• Güncelleme öncesi ayarlarınızı yedekleyin",
+  "updateinfo": "OpenDPI v11.331.81.512 - BÜYÜK GÜNCELLEME\n\n🚀 YENİLİKLER:\n• Discord Rich Presence Desteği\n• Yeni Nesil Hız Testi\n• Gelişmiş DNS Motoru\n• Kökten Değişen Lisans Sistemi\n\n🔧 İYİLEŞTİRMELER:\n• Performans Optimizasyonları\n• Ağ Analizi Doğruluğu\n• Kullanıcı Deneyimi\n• Güvenlik Önlemleri\n\n⚠️ DİKKAT:\n• Lisanslarınız yenilenecektir\n• Yeni keyler e-posta adresinize veya özelden gönderilecektir\n• Güncelleme öncesi ayarlarınızı yedekleyin",
   "release-date": "2025-12-26",
-  "changelog": "v10.331.81.512 - BÜYÜK GÜNCELLEME\n\nYENİ ÖZELLİKLER:\n• Discord Rich Presence desteği\n• Tamamen yeni hız testi uygulaması\n• Geliştirilmiş DNS motoru\n• Yeni lisans yönetim sistemi\n\nTEKNİK İYİLEŞTİRMELER:\n• DNS performans optimizasyonları\n• Bellek yönetimi iyileştirmeleri\n• Kullanıcı arayüzü geliştirmeleri\n• Güvenlik güncellemeleri\n\nHATA DÜZELTMELERİ:\n• DNS çözümleme hataları\n• Bellek sızıntıları\n• CPU kullanımı sorunları\n• Raporlama hataları\n\nÖNEMLİ NOT:\n• Lisans sistemi tamamen değişti\n• Önceki lisanslar geçersizdir\n• Yeni lisans anahtarları e-posta ile gönderilecektir",
+  "changelog": "v11.331.81.512 - BÜYÜK GÜNCELLEME\n\nYENİ ÖZELLİKLER:\n• Discord Rich Presence desteği\n• Tamamen yeni hız testi uygulaması\n• Geliştirilmiş DNS motoru\n• Yeni lisans yönetim sistemi\n\nTEKNİK İYİLEŞTİRMELER:\n• DNS performans optimizasyonları\n• Bellek yönetimi iyileştirmeleri\n• Kullanıcı arayüzü geliştirmeleri\n• Güvenlik güncellemeleri\n\nHATA DÜZELTMELERİ:\n• DNS çözümleme hataları\n• Bellek sızıntıları\n• CPU kullanımı sorunları\n• Raporlama hataları\n\nÖNEMLİ NOT:\n• Lisans sistemi tamamen değişti\n• Önceki lisanslar geçersizdir\n• Yeni lisans anahtarları e-posta ile gönderilecektir",
   "min-version": "1.0.0",
-  "file-size": 11385831,
-  "checksum-md5": "6f3046fc249b9ab910c93ea4a1512243",
-  "checksum-sha256": "4d70212ba6c75f18e3526758cc765423c615ef4df4e45d6a40d043f9ee219e1d",
+  "file-size": 11385031,
+  "checksum-md5": "cda5819895761f674c87dcb4618a577d",
+  "checksum-sha256": "4d2e8a05eb79dd02489d4c336e22e6f5102786ebcccb8dcec50410334c1d048d",
   "is-critical": true
 }
