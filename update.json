@@ -7,7 +7,7 @@
   "changelog": "v10.331.81.512 - BÜYÜK GÜNCELLEME\n\nYENİ ÖZELLİKLER:\n• Discord Rich Presence desteği\n• Tamamen yeni hız testi uygulaması\n• Geliştirilmiş DNS motoru\n• Yeni lisans yönetim sistemi\n\nTEKNİK İYİLEŞTİRMELER:\n• DNS performans optimizasyonları\n• Bellek yönetimi iyileştirmeleri\n• Kullanıcı arayüzü geliştirmeleri\n• Güvenlik güncellemeleri\n\nHATA DÜZELTMELERİ:\n• DNS çözümleme hataları\n• Bellek sızıntıları\n• CPU kullanımı sorunları\n• Raporlama hataları\n\nÖNEMLİ NOT:\n• Lisans sistemi tamamen değişti\n• Önceki lisanslar geçersizdir\n• Yeni lisans anahtarları e-posta ile gönderilecektir",
   "min-version": "1.0.0",
   "file-size": 11385831,
-  "checksum-md5": "b35ca54a6770539683fe965dd35ec4d2",
-  "checksum-sha256": "ac0283f952cac11de3a314e892e5ad34cfe337f208f5915e309d40b842b9bb78",
+  "checksum-md5": "6f3046fc249b9ab910c93ea4a1512243",
+  "checksum-sha256": "4d70212ba6c75f18e3526758cc765423c615ef4df4e45d6a40d043f9ee219e1d",
   "is-critical": true
 }
