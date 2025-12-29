@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "title": "SUNUCU BAKIM ÇALIŞMASI",
   "message": "OpenDPI sunucuları ve OpenDPI şu anda bakımda.\nYeni özellikler ve performans iyileştirmeleri ekleniyor.\n\nLütfen bekleyin, en kısa sürede hizmetinize sunulacaktır.",
   "features": "• Yeni performans iyileştirmeleri\n• DNS çözümleyici güncellemesi\n• Hız optimizasyonları\n• Güvenlik geliştirmeleri\n• Yeni gelişmiş bağlantı şifreleme mekanizması",
