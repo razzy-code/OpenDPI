@@ -6,8 +6,8 @@
   "release-date": "2025-12-29",
   "changelog": "v12.982.11 - Bazı performans sorunları düzeltildi ve bazı hatalar giderildi.",
   "min-version": "1.0.0",
-  "file-size": 7090631,
-  "checksum-md5": "19a3a7af2c61187d588b9881d42550fd",
-  "checksum-sha256": "c044451f4ff69fee9890511b059c3e79a98f0a015f68d481f317e013cb05e197",
+  "file-size": 14547037,
+  "checksum-md5": "93221aadb57c558b6d5f2dbb1189047d",
+  "checksum-sha256": "b4122fde8dad24c5bd43751225ba0af332ee0ba8cab5f46850a30c42ee45c1fa",
   "is-critical": false
 }
