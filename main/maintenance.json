@@ -1,8 +1,8 @@
 {
   "active": true,
-  "title": "SUNUCU BAKIM ÇALIŞMASI",
-  "message": "OpenDPI sunucuları ve OpenDPI şu anda bakımda.\nYeni özellikler ve performans iyileştirmeleri ekleniyor.\n\nLütfen bekleyin, en kısa sürede hizmetinize sunulacaktır.",
-  "features": "• Yeni performans iyileştirmeleri\n• DNS çözümleyici güncellemesi\n• Hız optimizasyonları\n• Güvenlik geliştirmeleri\n• Yeni gelişmiş bağlantı şifreleme mekanizması",
+  "title": "TEST",
+  "message": "TEST",
+  "features": "TEST",
   "end_date": "2025-12-30 18:00:00",
   "logo_url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
   "version_required": "13.998.12",
