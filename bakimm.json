@@ -1,16 +1,16 @@
 {
-  "active": false,
+  "active": true,
   "title": "SUNUCU BAKIM ÇALIŞMASI",
   "message": "OpenDPI sunucuları ve OpenDPI şu anda bakımda.\nYeni özellikler ve performans iyileştirmeleri ekleniyor.\n\nLütfen bekleyin, en kısa sürede hizmetinize sunulacaktır.",
-  "features": "• Yeni performans iyileştirmeleri\n• DNS çözümleyici güncellemesi\n• Hız optimizasyonları\n• Güvenlik geliştirmeleri\n• Yeni gelişmiş bağlantı şifreleme mekanizması",
-  "end_date": "2025-12-30 05:00:00",
+  "features": "• Yeni performans iyileştirmeleri\n• RAM optimizasyonları\n• YENİ ÖZELLİK: Başarım Sistemi",
+  "end_date": "2025-12-30 23:00:00",
   "logo_url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
   "version_required": "13.998.12",
-  "estimated_duration": "15 Dakika",
+  "estimated_duration": "12 Saat (Bu süre tahminidir!)",
   "important_notes": [
     "Bakım sırasında OpenDPI kullanılamayacaktır",
     "Tüm bağlantılar geçici olarak kesilecek",
-    "Bakım sonrası uygulamayı yeniden başlatmanız gerekebilir"
+    "Bakım sonrası uygulamayı yeniden başlatmanız gereklidir"
   ],
   "contact": {
     "email": "nebisaylancode@gmail.com",
