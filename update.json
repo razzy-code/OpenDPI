@@ -1,13 +1,13 @@
 {
-  "version": "15.111.52",
+  "version": "16.311.72",
   "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v15.111.52 - Çeşitli Hata Düzeltmeleri ve Offline Oyun Modu",
+  "updateinfo": "OpenDPI v16.311.72 - Yeni Hesap Sistemi",
   "release-date": "2025-12-31",
-  "changelog": "v15.111.52 -  Yeni performans iyileştirmeleri\n Offline Oyun Modu",
+  "changelog": "v16.311.72 -  Yeni hesap sistemi ile artık tüm bilgileriniz güvende!",
   "min-version": "1.0.0",
-  "file-size": 42847210,
-  "checksum-md5": "c4d31afa15c9ce070d085d41b9e6f012",
-  "checksum-sha256": "58a2c22c0abd280f27ef1d5ae75fe3da871dc0f08c7952d6cf0d64ca55640287",
-  "is-critical": false
+  "file-size": 71805340,
+  "checksum-md5": "7b77fbbfbaa371d64c57c350355f28d5",
+  "checksum-sha256": "9da81bea9a75efdb1d9a2c81f7475d9719c0aa99b31bf9ea66417aef2162d092",
+  "is-critical": true
 }
