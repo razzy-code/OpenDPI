@@ -1,13 +1,41 @@
 {
-  "version": "17.215.22",
-  "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
+  "version": "17.215.31",
+  "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.opdpi",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v17.215.22 - Yeni Servis Sistemi",
-  "release-date": "2026-01-04",
-  "changelog": "v17.215.22 -  Artık yeni servis sistemi ile erişim engeli olan heryere kolaylıkla ve güvenle giriş yapabilirsiniz!",
+  "updateinfo": "OpenDPI v17.215.31 - Çeşitili Hata Düzeltmeleri",
+  "release-date": "2026-01-05",
+  "changelog": "v17.215.31 - Artık yeni servis sistemi ile erişim engeli olan heryere kolaylıkla ve güvenle giriş yapabilirsiniz!",
   "min-version": "1.0.0",
-  "file-size": 72091886,
-  "checksum-md5": "2833aff8414340d9ff622a8bd52b6133",
-  "checksum-sha256": "d0b7a8b06a27e1ec967c20449739d435438c5a5634829ec81381adec5aa7559d",
-  "is-critical": false
+  "file-size": 74553783,
+  "checksum-md5": "1e54d12c26a8d0b43096ec5afb8f3a20",
+  "checksum-sha256": "5e9308ded347a5aaf136faeae58994e46f75f8d848f05874ee774857651e65d1",
+  "is-critical": false,
+  "files-list": [
+    "OpenDPI.exe",
+    "OpenDPI.dll",
+    "VE DAHA FAZLASI"
+  ],
+  "update-history": [
+    {
+      "version": "17.215.21",
+      "date": "2026-01-03",
+      "changelog": "Performans iyileştirmeleri ve hata düzeltmeleri",
+      "size": 68954210,
+      "is-critical": false
+    },
+    {
+      "version": "17.215.20",
+      "date": "2026-01-02",
+      "changelog": "Yeni proxy desteği eklendi",
+      "size": 65432100,
+      "is-critical": true
+    },
+    {
+      "version": "17.215.19",
+      "date": "2026-01-01",
+      "changelog": "İlk stabil sürüm",
+      "size": 60000000,
+      "is-critical": false
+    }
+  ]
 }
