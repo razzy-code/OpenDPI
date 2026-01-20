@@ -4,7 +4,7 @@
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
   "bannerurl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/post.png",
   "updateinfo": "OpenDPI 18.115.51 - Donanım Hızlandırma Desteği ve Hata Düzeltmeleri",
-  "release-date": "2026-01-15",
+  "release-date": "2026-01-21",
   "changelog": "v18.115.51 - Donanım ivmesi desteği eklendi. (NOT: HALA TEST AŞAMASINDADIR. KULLANIRKEN OLUŞAN HATALARI LÜTFEN DESTEK HATTINDAN BİLDİRMEYİ UNUTMAYINIZ!) Çeşitli hatalar giderildi.",
   "min-version": "1.0.0",
   "file-size": 203989244,
