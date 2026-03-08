@@ -4,7 +4,7 @@
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
   "bannerurl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/post.png",
   "updateinfo": "OpenDPI 21.412.22 - Yeni Sunucu Motoru Kernel Sürücüsü",
-  "release-date": "2026-02-21",
+  "release-date": "2026-03-08",
   "changelog": "v21.412.22 - OpenDPI'in sunucularıyla kesintisiz iletişim halinde olması için yeni sunucu motoru kernel sürücülerini kodladık. (NOT: EĞER BU SÜRÜCÜLER YÜZÜNDEN MAVİ EKRAN (BSOD) ALIRSANIZ LÜTFEN MİNİDUMP DOSYANIZ İLE BİRLİKTE DESTEK KISMINDAN VEYA WEBSİTEMİZDEN BİLDİRMEYİ UNUTMAYINIZ!!!)",
   "min-version": "1.0.0",
   "file-size": 540634830,
