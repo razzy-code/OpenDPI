@@ -1,0 +1,149 @@
+﻿================================================================================
+                    OPENDPI – LİSANS SÖZLEŞMESİ (EULA)
+================================================================================
+
+Resmi Ad: OpenDPI
+Geliştirici: Nebi Şaylan
+Lisans Türü: MIT License
+Telif Hakkı: © 2026 Nebi Şaylan
+
+────────────────────────────────────────────────────────────────────────────────
+                              MIT LİSANSI
+────────────────────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 Nebi Şaylan
+
+Bu yazılımın ve ilişkili belgelendirme dosyalarının ("Yazılım") bir kopyasını
+elde eden herkese, aşağıdaki koşullara tabi olmak kaydıyla; Yazılımı kullanma,
+kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya
+Yazılımın kopyalarını satma hakkı ücretsiz olarak verilir.
+
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılımın tüm kopyalarına
+veya önemli bölümlerine eklenmelidir.
+
+YAZILIM, HİÇBİR GARANTİ VERİLMEKSİZİN, "OLDUĞU GİBİ" SAĞLANIR. SATILABİLİRLİK,
+BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL ETMEME DAHİL OLMAK ÜZERE, AÇIK VEYA ZIMNİ
+HİÇBİR GARANTİ VERİLMEZ. HİÇBİR DURUMDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ,
+YAZILIMIN KULLANIMINDAN KAYNAKLANAN HERHANGİ BİR ZARAR, KAYIP VEYA SORUMLULUKTAN
+SORUMLU TUTULAMAZ.
+
+────────────────────────────────────────────────────────────────────────────────
+                           LİSANS KOŞULLARI
+────────────────────────────────────────────────────────────────────────────────
+
+1. KULLANIM HAKLARI
+   Kullanıcı aşağıdaki haklara sahiptir:
+   - Yazılımı kişisel ve ticari amaçlarla kullanma
+   - Yazılımı kopyalama ve dağıtma
+   - Kaynak kodu inceleme, değiştirme ve uyarlama
+   - Ticari projelere entegre etme
+
+2. YÜKÜMLÜLÜKLER
+   - Telif hakkı bildirimi korunmalıdır
+   - MIT lisans metni tüm dağıtımlara eklenmelidir
+   - Yapılan değişiklikler açıkça belirtilmelidir
+
+3. SINIRLAMALAR
+   - Yazılım garanti kapsamında değildir
+   - Geliştirici doğrudan veya dolaylı zararlardan sorumlu tutulamaz
+
+────────────────────────────────────────────────────────────────────────────────
+                     YASAL UYARILAR VE SORUMLULUK REDDİ
+────────────────────────────────────────────────────────────────────────────────
+
+⚠️ ÖNEMLİ BİLGİLENDİRME
+
+1. AMAÇ VE KAPSAM
+   OpenDPI, eğitim, araştırma ve teknik analiz amaçlarıyla geliştirilmiştir.
+   Kullanıcı, yazılımı kullanırken yürürlükteki tüm yerel ve uluslararası
+   yasalara uymakla yükümlüdür.
+
+2. GÜVENLİK BİLGİLERİ
+   - OpenDPI açık kaynaklıdır
+   - Zararlı yazılım, casus kod veya veri toplama mekanizması içermez
+   - Kaynak kodu herkes tarafından denetlenebilir
+   - Bazı antivirüs yazılımlarında yanlış pozitif uyarılar görülebilir
+
+3. SORUMLULUK REDDİ
+   Geliştirici aşağıdakilerden sorumlu değildir:
+   - Yasal yaptırımlar
+   - Veri kayıpları
+   - Sistem hasarları
+   - Finansal veya ticari kayıplar
+   - Üçüncü taraf yazılımlar ile yaşanan uyumsuzluklar
+
+4. YASA DIŞI KULLANIM
+   OpenDPI’ın aşağıdaki amaçlarla kullanımı KESİNLİKLE YASAKTIR:
+   - Yasa dışı faaliyetler
+   - Yetkisiz erişim veya siber saldırılar
+   - Dolandırıcılık ve kötüye kullanım
+   - Telif hakkı ihlalleri
+   - Yürürlükteki yasaları ihlal eden işlemler
+
+────────────────────────────────────────────────────────────────────────────────
+                          TELİF HAKKI VE KAYNAK
+────────────────────────────────────────────────────────────────────────────────
+
+ORİJİNAL PROJE:
+OpenDPI projesi, Valentin Lorentz ve katkıda bulunanlar tarafından
+geliştirilmiştir.
+
+TÜRKİYE FORKU:
+OpenDPI Türkiye sürümü © 2026 Nebi Şaylan  
+Türkiye’deki kullanıcılar için yapılandırılmış ve optimize edilmiştir.
+
+KATKIDA BULUNANLAR:
+- Valentin Lorentz (Orijinal geliştirici)
+- OpenDPI açık kaynak topluluğu
+- Test ve geri bildirim sağlayan kullanıcılar
+
+────────────────────────────────────────────────────────────────────────────────
+                         DAĞITIM VE PAYLAŞIM
+────────────────────────────────────────────────────────────────────────────────
+
+1. SERBEST DAĞITIM
+   - Yazılım ücretsiz olarak dağıtılabilir
+   - Ticari paketlerde kullanılabilir
+   - Açık kaynak projelere dahil edilebilir
+
+2. DEĞİŞTİRİLMİŞ SÜRÜMLER
+   - Değişiklikler açıkça belirtilmelidir
+   - Orijinal telif hakkı korunmalıdır
+   - Önerilen: farklı bir sürüm veya isim kullanılması
+
+────────────────────────────────────────────────────────────────────────────────
+                          GİZLİLİK POLİTİKASI
+────────────────────────────────────────────────────────────────────────────────
+
+OpenDPI:
+- Kişisel veri TOPLAMAZ
+- İnternet trafiğini KAYDETMEZ
+- Kullanıcı davranışı İZLEMEZ
+- Üçüncü taraflarla veri PAYLAŞMAZ
+
+Tüm işlemler kullanıcı cihazında, yerel olarak gerçekleşir.
+Log dosyaları yalnızca hata ayıklama amaçlıdır.
+
+────────────────────────────────────────────────────────────────────────────────
+                           SÖZLEŞMENİN KABULÜ
+────────────────────────────────────────────────────────────────────────────────
+
+OpenDPI’ı kullanarak kullanıcı:
+- MIT Lisansı’nı kabul etmiş sayılır
+- Yasal uyarıları okuduğunu ve anladığını beyan eder
+- Sorumluluk reddini kabul eder
+- Gizlilik politikasını onaylar
+
+KABUL ETMİYORSANIZ:
+Bu yazılımı kullanmayınız ve sisteminizden kaldırınız.
+
+────────────────────────────────────────────────────────────────────────────────
+                            İLETİŞİM
+────────────────────────────────────────────────────────────────────────────────
+
+Geliştirici: Nebi Şaylan
+E-posta: nebisaylancode@hotmail.com
+GitHub: https://github.com/razzy-code
+Website: https://opendpi.lovable.app
+
+================================================================================
