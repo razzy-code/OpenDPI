@@ -5,7 +5,7 @@
   "bannerurl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/post.png",
   "updateinfo": "Yeni Oyun ve Çeşitli Hata Düzeltmeleri",
   "release-date": "2026-03-26",
-  "changelog": "v26.131.12 - Yeni oyun olan Open Golf eklendi ve OPENDPI ENGİNE 2.3 sürümüne güncellendi. Ram optimizasyonları ve çeşitli hata düzeltmeleri yapıldı. Lisan okumama ve geçersiz hataları düzeltildi.",
+  "changelog": "v26.131.12 - Yeni oyun olan Open Golf eklendi ve OPENDPI ENGİNE 2.3 sürümüne güncellendi. Ram optimizasyonları ve çeşitli hata düzeltmeleri yapıldı. Lisans okumama ve geçersiz hatalarının çoğu düzeltildi.",
   "min-version": "1.0.0",
   "file-size": 155823700,
   "checksum-md5": "6869a28a3534c8cb0a15d318b6272e40",
