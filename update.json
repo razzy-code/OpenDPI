@@ -7,9 +7,9 @@
   "release-date": "2026-03-26",
   "changelog": "v26.131.12 - Yeni oyun olan Open Golf eklendi ve OPENDPI ENGİNE 2.3 sürümüne güncellendi. Ram optimizasyonları ve çeşitli hata düzeltmeleri yapıldı. Lisans okumama ve geçersiz hatalarının çoğu düzeltildi.",
   "min-version": "1.0.0",
-  "file-size": 155823700,
-  "checksum-md5": "6869a28a3534c8cb0a15d318b6272e40",
-  "checksum-sha256": "616de382891a554ec2ca09092502be329ec093dce91dbe6aa5628b6a779cd17c",
+  "file-size": 176718057,
+  "checksum-md5": "0",
+  "checksum-sha256": "0",
   "is-critical": false,
   "files-list": [
     "OpenDPI.exe",
