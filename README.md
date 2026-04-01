@@ -61,10 +61,11 @@ OpenDPI, gelişmiş Derin Paket İncelemesi (DPI) atlatma teknolojileri kullanar
 - **Ağ**: İnternet bağlantısı
 - **.NET Framework**: 4.8 veya üzeri
 
-## 📥 Kurulum
+### 📥 Kurulum
 
-### Otomatik Kurulum
-1. İndirilen `OpenDPI-Setup.exe` dosyasını çalıştırın
-2. Kurulum sihirbazını takip edin
-3. Gerekli izinleri onaylayın
-4. Masaüstüne gelen kısayoldan programı çalıştırın
+👉 [İndirmek için buraya tıklayın](https://github.com/razzy-code/OpenDPI/releases/download/OpenDPI/OpenDPI-Setup.exe)
+
+1. İndirilen `OpenDPI-Setup.exe` dosyasını çalıştırın  
+2. Kurulum sihirbazını takip edin  
+3. Gerekli izinleri onaylayın  
+4. Masaüstüne gelen kısayoldan programı çalıştırın  
