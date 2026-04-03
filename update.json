@@ -14,28 +14,5 @@
     "OpenDPI.exe",
     "OpenDPI.dll",
     "VE DAHA FAZLASI"
-  ],
-  "update-history": [
-    {
-      "version": "17.215.21",
-      "date": "2026-01-03",
-      "changelog": "Performans iyileştirmeleri ve hata düzeltmeleri",
-      "size": 68954210,
-      "is-critical": false
-    },
-    {
-      "version": "17.215.20",
-      "date": "2026-01-02",
-      "changelog": "Yeni proxy desteği eklendi",
-      "size": 65432100,
-      "is-critical": true
-    },
-    {
-      "version": "17.215.19",
-      "date": "2026-01-01",
-      "changelog": "İlk stabil sürüm",
-      "size": 60000000,
-      "is-critical": false
-    }
   ]
 }
