@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "name": "OpenDPI X Plugin Marketi",
+  "description": "Official plugin repository for OpenDPI X",
+  "author": "OpenDPI X Team",
+  "website": "https://github.com/razzy-code/OpenDPI",
+  "plugins": [
+    {
+      "id": "advanced-network-monitor",
+      "name": "Advanced Network Monitor",
+      "version": "1.2.0",
+      "description": "Real-time network monitoring with detailed statistics and alerts",
+      "author": "OpenDPI X Team",
+      "category": "network",
+      "url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/plugins/advanced-network-monitor.opendpixplugins",
+      "icon": "📊",
+      "size": "2.4MB",
+      "downloads": 15420,
+      "rating": 4.8,
+      "lastUpdated": "2026-04-10",
+      "compatibility": "^0.24.0",
+      "permissions": ["network", "storage"],
+      "features": [
+        "Real-time bandwidth monitoring",
+        "Packet loss detection",
+        "Latency tracking",
+        "Network quality scoring",
+        "Custom alerts and notifications"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/network-monitor-1.png",
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/network-monitor-2.png"
+      ]
+    },
+    {
+      "id": "game-optimizer-pro",
+      "name": "Game Optimizer Pro",
+      "version": "2.1.0",
+      "description": "Automatic game detection and optimization for lowest latency",
+      "author": "OpenDPI X Team",
+      "category": "gaming",
+      "url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/plugins/game-optimizer-pro.opendpixplugins",
+      "icon": "🎮",
+      "size": "3.1MB",
+      "downloads": 28930,
+      "rating": 4.9,
+      "lastUpdated": "2026-04-09",
+      "compatibility": "^0.24.0",
+      "permissions": ["process", "network", "registry"],
+      "features": [
+        "Automatic game detection",
+        "Profile switching optimization",
+        "Low latency mode",
+        "Game-specific DPI bypass",
+        "Performance monitoring"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/game-optimizer-1.png",
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/game-optimizer-2.png"
+      ]
+    },
+    {
+      "id": "security-shield-plus",
+      "name": "Security Shield Plus",
+      "version": "1.5.0",
+      "description": "Advanced security features with kill switch and DNS protection",
+      "author": "OpenDPI X Team",
+      "category": "security",
+      "url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/plugins/security-shield-plus.opendpixplugins",
+      "icon": "🛡️",
+      "size": "1.8MB",
+      "downloads": 12350,
+      "rating": 4.7,
+      "lastUpdated": "2026-04-08",
+      "compatibility": "^0.24.0",
+      "permissions": ["network", "firewall", "dns"],
+      "features": [
+        "DNS leak protection",
+        "Kill switch functionality",
+        "Advanced threat detection",
+        "Automatic security updates",
+        "Security event logging"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/security-shield-1.png",
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/security-shield-2.png"
+      ]
+    },
+    {
+      "id": "proxy-manager-ultimate",
+      "name": "Proxy Manager Ultimate",
+      "version": "3.0.0",
+      "description": "Complete proxy management with auto-rotation and health checking",
+      "author": "OpenDPI X Team",
+      "category": "proxy",
+      "url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/plugins/proxy-manager-ultimate.opendpixplugins",
+      "icon": "🌐",
+      "size": "2.9MB",
+      "downloads": 19870,
+      "rating": 4.6,
+      "lastUpdated": "2026-04-11",
+      "compatibility": "^0.24.0",
+      "permissions": ["network", "proxy", "system"],
+      "features": [
+        "Auto proxy rotation",
+        "Health checking",
+        "Multiple protocol support",
+        "Load balancing",
+        "Failover protection"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/proxy-manager-1.png",
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/proxy-manager-2.png"
+      ]
+    },
+    {
+      "id": "theme-studio",
+      "name": "Theme Studio",
+      "version": "1.8.0",
+      "description": "Create and customize beautiful themes for OpenDPI X",
+      "author": "OpenDPI X Team",
+      "category": "themes",
+      "url": "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/plugins/theme-studio.opendpixplugins",
+      "icon": "🎨",
+      "size": "4.2MB",
+      "downloads": 32150,
+      "rating": 4.9,
+      "lastUpdated": "2026-04-07",
+      "compatibility": "^0.24.0",
+      "permissions": ["storage", "ui"],
+      "features": [
+        "Visual theme editor",
+        "Color scheme generator",
+        "Animation controls",
+        "Custom CSS support",
+        "Theme sharing"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/theme-studio-1.png",
+        "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/screenshots/theme-studio-2.png"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "network",
+      "name": "Network",
+      "icon": "📡",
+      "description": "Network monitoring and optimization plugins"
+    },
+    {
+      "id": "gaming", 
+      "name": "Gaming",
+      "icon": "🎮",
+      "description": "Game optimization and performance plugins"
+    },
+    {
+      "id": "security",
+      "name": "Security", 
+      "icon": "🛡️",
+      "description": "Security and privacy protection plugins"
+    },
+    {
+      "id": "proxy",
+      "name": "Proxy",
+      "icon": "🌐",
+      "description": "Proxy management and routing plugins"
+    },
+    {
+      "id": "themes",
+      "name": "Themes",
+      "icon": "🎨", 
+      "description": "Visual themes and customization plugins"
+    }
+  ],
+  "api": {
+    "version": "1.0",
+    "baseUrl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/main/plugins/",
+    "headers": {
+      "User-Agent": "OpenDPI-X-Plugin-Manager/1.0.0",
+      "Accept": "application/vnd.opendpix.v1+json"
+    },
+    "encryption": "AES-256-GCM",
+    "signatureRequired": true
+  }
+}
