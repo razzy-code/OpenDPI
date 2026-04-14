@@ -8,7 +8,7 @@
       "date": "2025-04-14",
       "title": "🧊 Liquid Glacier & Performans",
       "changes": [
-        "Liquid Glacier UI entegrasyonu (Flutter paketinden ilhamla)",
+        "Liquid Glacier UI entegrasyonu",
         "Gelişmiş glass efektleri ve derinlik gölgeleri",
         "Performans optimizasyonu - blur efektleri azaltıldı",
         "Animasyonlar hızlandırıldı (0.15s)",
