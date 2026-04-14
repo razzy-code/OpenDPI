@@ -1,0 +1,78 @@
+{
+  "latestVersion": "1.32.05f",
+  "releaseDate": "2025-04-14",
+  "downloadUrl": "https://github.com/razzy-code/OpenDPI/releases/latest",
+  "updates": [
+    {
+      "version": "1.32.05f",
+      "date": "2025-04-14",
+      "title": "🎨 UI/UX Devrimi",
+      "changes": [
+        "Yeni splash ekranı ile hızlı başlangıç",
+        "Hız Testi sekmesi eklendi (download/upload/ping)",
+        "Yenilikler/Changelog paneli eklendi",
+        "Başlat butonu lüquid kırmızıya çevrildi",
+        "Daha akıcı animasyonlar ve hover efektleri",
+        "#ENGELTANIMA teması ve TIPS sistemi"
+      ],
+      "type": "feature"
+    },
+    {
+      "version": "1.32.04f",
+      "date": "2025-04-10",
+      "title": "🔧 Discord & Optimizasyon",
+      "changes": [
+        "Discord Rich Presence entegrasyonu",
+        "GPU Anti-Lag desteği eklendi",
+        "CPU çekirdek optimizasyonu",
+        "Otomatik güncelleme sistemi",
+        "Bağlantı stabilitesi artırıldı"
+      ],
+      "type": "improvement"
+    },
+    {
+      "version": "1.32.03f",
+      "date": "2025-04-05",
+      "title": "🐛 Hata Düzeltmeleri",
+      "changes": [
+        "Splash bootloop sorunu çözüldü",
+        "Renderer hazır sinyali optimize edildi",
+        "Animasyon loop sorunu düzeltildi",
+        "Pencere odaklanma iyileştirildi"
+      ],
+      "type": "fix"
+    },
+    {
+      "version": "1.32.02f",
+      "date": "2025-04-01",
+      "title": "⚡ Performans Güncellemesi",
+      "changes": [
+        "Başlangıç süresi %50 azaltıldı",
+        "Hafıza kullanımı optimize edildi",
+        "Arka plan görevleri iyileştirildi"
+      ],
+      "type": "improvement"
+    },
+    {
+      "version": "1.32.01f",
+      "date": "2025-03-28",
+      "title": "🎯 İlk Stable Sürüm",
+      "changes": [
+        "Yeni arayüz tasarımı",
+        "Metot kütüphanesi genişletildi",
+        "WinDivert entegrasyonu",
+        "Sistem tepsisi desteği"
+      ],
+      "type": "feature"
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "🎉 Yeni Güncelleme Mevcut!",
+      "message": "v1.32.05f ile birlikte hız testi ve Discord RPC özellikleri geldi!",
+      "priority": "high",
+      "date": "2025-04-14"
+    }
+  ]
+}
