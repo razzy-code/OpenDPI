@@ -1,8 +1,22 @@
 {
-  "latestVersion": "1.32.05f",
+  "latestVersion": "1.33.00f",
   "releaseDate": "2025-04-14",
   "downloadUrl": "https://github.com/razzy-code/OpenDPI/releases/latest",
   "updates": [
+    {
+      "version": "1.33.00f",
+      "date": "2025-04-14",
+      "title": "🧊 Liquid Glacier & Performans",
+      "changes": [
+        "Liquid Glacier UI entegrasyonu (Flutter paketinden ilhamla)",
+        "Gelişmiş glass efektleri ve derinlik gölgeleri",
+        "Performans optimizasyonu - blur efektleri azaltıldı",
+        "Animasyonlar hızlandırıldı (0.15s)",
+        "Türkçe karakter düzeltmeleri (Hız Testi, Hakkında, Kayıtlar)",
+        "Sayfa yükleme sorunları çözüldü"
+      ],
+      "type": "improvement"
+    },
     {
       "version": "1.32.05f",
       "date": "2025-04-14",
@@ -69,8 +83,8 @@
   "announcements": [
     {
       "id": 1,
-      "title": "🎉 Yeni Güncelleme Mevcut!",
-      "message": "v1.32.05f ile birlikte hız testi ve Discord RPC özellikleri geldi!",
+      "title": "🧊 Liquid Glacier Güncellemesi!",
+      "message": "v1.33.00f ile birlikte gelişmiş glass efektleri ve performans iyileştirmeleri geldi!",
       "priority": "high",
       "date": "2025-04-14"
     }
