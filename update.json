@@ -1,5 +1,6 @@
 {
   "version": "30.512.39.0",
+  "update-test": "false",
   "update-link": "https://rtosgguiwyjovyafibhq.supabase.co/storage/v1/object/public/software-releases//UPDATE.zip",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi-x.png",
   "updateinfo": "30.512.39.0 - Çeşitli Hata Düzeltmeleri ve Performans İyileştirmeleri",
