@@ -1,12 +1,28 @@
 {
-  "latestVersion": "1.33.00f",
-  "releaseDate": "2025-04-14",
+  "latestVersion": "1.33.01f",
+  "releaseDate": "2025-04-16",
   "downloadUrl": "https://github.com/razzy-code/OpenDPI/releases/latest",
   "updates": [
     {
+      "version": "1.33.01f",
+      "date": "2025-04-16",
+      "title": "Performans ve Düzeltmeler",
+      "changes": [
+        "Arayüz performansı optimize edildi (daha az kasma)",
+        "İndirme/Yükleme göstergesi düzeltildi",
+        "Splash ekranı süresi uzatıldı (boşluk sorunu çözüldü)",
+        "Başlatma patlama efekti kaldırıldı",
+        "Tüm metodlar aynı argüman setini kullanıyor",
+        "Emoji'ler tamamen kaldırıldı, metin ikonlar eklendi",
+        "İstatistikler gerçek veri kullanıyor",
+        "Bellek kullanımı gerçek Electron API ile ölçülüyor"
+      ],
+      "type": "improvement"
+    },
+    {
       "version": "1.33.00f",
       "date": "2025-04-14",
-      "title": "🧊 Liquid Glacier & Performans",
+      "title": "Liquid Glacier & Performans",
       "changes": [
         "Liquid Glacier UI entegrasyonu",
         "Gelişmiş glass efektleri ve derinlik gölgeleri",
