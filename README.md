@@ -1,160 +1,61 @@
-# 🚀 OpenDPI X
+<p align="center">
+  <img src="https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png" width="180" />
+</p>
 
-OpenDPI X, internet bağlantınızı optimize eden ve bağlantı sorunlarını azaltmaya yardımcı olan gelişmiş bir masaüstü uygulamasıdır. Özellikle oyunlar, Discord ve günlük kullanım için daha stabil ve düşük gecikmeli bağlantı sağlar.
+<h1 align="center">🚀 OpenDPI ve OpenDPI X</h1>
 
----
-
-## 📋 İçindekiler
-- ✨ Özellikler
-- 🎯 Kimler İçin?
-- 📥 Kurulum
-- ▶️ Kullanım
-- ⚙️ Ayarlar
-- 🎮 Önerilen Kullanımlar
-- 📊 Arayüz
-- 🚨 Sorun Giderme
-- 🔒 Güvenlik
-- 📌 Not
-- 👨‍💻 Geliştirici
+<p align="center">
+  <b>Bir yolculuğun sonu… ama hatırası kalır.</b>
+</p>
 
 ---
 
-## ✨ Özellikler
+## 📢 #ELVEDADOSTLAR
 
-### 🔧 Temel Özellikler
-- Çoklu bağlantı metotları (-5, -6, -7, -8, -9)
-- Otomatik yeniden bağlanma
-- DNS optimizasyonu
-- Performans izleme (ping, bağlantı durumu)
-- Türkçe arayüz
-- Otomatik güncelleme
-- Hata raporlama
-- Sistem temizleme
+Türkiye'de VPN kullanımıyla ilgili kapsamlı bir lisanslama ve denetim süreci gündemdedir.
 
-### 🚀 Gelişmiş Özellikler
-- 🧠 Akıllı metot seçimi (en iyi performansa göre otomatik değişim)
-- 📊 Gerçek zamanlı ping ve bağlantı takibi
-- 🎮 Oyunlara özel optimizasyon
-- ⚡ Tek tuşla sistem + ağ optimizasyonu (Boost)
-- 🛡️ Bağlantı sorunlarını otomatik algılama ve düzeltme
-- 📡 Proxy ve bağlantı yönlendirme desteği
-- 📁 Profil sistemi (ayar kaydetme / yükleme)
-- 🎨 Modern ve özelleştirilebilir arayüz
+### 📌 Güncel Durum
+
+Yalnızca yetkilendirilmiş ve kullanıcı kayıtlarını (log) makamlarla paylaşmayı kabul eden “onaylı” VPN sağlayıcılarına izin verilmesi planlanmaktadır.
+
+Düzenlemeye uymayan sağlayıcılara 1 milyon TL ile 30 milyon TL arasında idari para cezası verilmesi gündemdedir.
+
+15 yaş altı çocukların sosyal medya kısıtlamasını VPN ile aşmasını önlemek amacıyla e-Devlet üzerinden kimlik doğrulamalı yaş kontrolü getirilmesi öngörülmektedir.
+
+BTK, halihazırda birçok popüler VPN servisinin protokollerine ve web sitelerine erişim engeli uygulamaktadır.
+
+Bu yeni düzenleme hayata geçerse, VPN kullanımı değil, VPN sağlayıcıları doğrudan hedef alınmış olacaktır.
+
+Bu bilgilendirme yalnızca farkındalık amacıyla sunulmuştur.
 
 ---
 
-## 🎯 Kimler İçin?
+## 💔 Proje Sonlandırma Duyurusu
 
-- 🎮 Oyun oynayanlar (düşük ping isteyenler)
-- 🎧 Discord kullanıcıları (kesintisiz ses)
-- 🌐 Günlük internet kullanıcıları
-- ⚡ Stabil bağlantı isteyen herkes
+Bazen en güçlü projeler bile şartların ağırlığı altında durmak zorunda kalır…
 
----
+Ne yazık ki bu yolculuğun sonuna geldik.
 
-## 📥 Kurulum
+Nisan 2026 itibarıyla Türkiye’de VPN düzenlemeleri ve lisans zorunluluğu, bağımsız projeleri ciddi şekilde etkilemiştir.
 
-⚠️ **Not:** Şu anda kurulum dosyası henüz yayınlanmadı.
+Yeni düzenlemeye göre BTK lisansı, şirket statüsü ve yüksek mali yükümlülükler nedeniyle projenin sürdürülebilirliği mümkün olmamıştır.
 
-Yakında indirilebilir olacak:
+Resmi lisans için gerekli bütçe bulunmadığından OpenDPI ve OpenDPI X projesini sonlandırma kararı alınmıştır.
 
-OpenDPI-X-Setup.exe
-
-
-### Kurulum Adımları (Yayınlandığında)
-
-1. `OpenDPI-X-Setup.exe` dosyasını çalıştır  
-2. "İleri" diyerek kurulumu tamamla  
-3. Kurulum bittikten sonra masaüstüne kısayol oluşturulur  
-4. Masaüstündeki **OpenDPI X** simgesine çift tıklayarak aç  
+Tüm sunucular durdurulmuş, indirme bağlantıları ve kaynaklar kaldırılmıştır.
 
 ---
 
-## ▶️ Kullanım
+## 🌙 Son Mesaj
 
-1. Uygulamayı aç  
-2. Ana ekranda bir metot seç:  
-   - **-5** → Stabil kullanım  
-   - **-7** → Engelli siteler  
-   - **-9** → Maksimum güç  
-3. **Başlat** butonuna bas  
-4. Bağlantı otomatik optimize edilir  
+Bu sadece bir yazılım değildi…
 
----
+Bir emekti, bir hayaldi, bir topluluktu.
 
-## ⚙️ Ayarlar
+Bu yolculuğu bizimle paylaştığınız için teşekkür ederiz. Hepinizi çok seviyoruz.
 
-Uygulama içinden kolayca ayarlanabilir:
+Kendinize iyi bakın, hayatınızda başarılar dilerim.
 
-### 🔹 Genel
-- Otomatik başlatma  
-- Arka planda çalışma  
-- Bildirimler  
+Belki bir gün, daha özgür bir internette tekrar görüşmek üzere…
 
-### 🔹 Ağ
-- Yeniden bağlanma ayarları  
-- Bağlantı kontrol süresi  
-
-### 🔹 Performans
-- Donanım hızlandırma  
-- Sistem optimizasyonu  
-
----
-
-## 🎮 Önerilen Kullanımlar
-
-### 🎮 Oyun için
-- Metot: **-8 veya -9**  
-- Boost: Açık  
-
-### 🎧 Discord için
-- Metot: **-9**  
-- Stabil bağlantı modu  
-
-### 🌐 Günlük kullanım
-- Metot: **-5**  
-
----
-
-## 📊 Arayüz
-
-Uygulama içinde şunları görebilirsin:
-
-- Ping değeri  
-- Bağlantı durumu  
-- Aktif metot  
-- Çalışma süresi  
-- Performans bilgileri  
-
----
-
-## 🚨 Sorun Giderme
-
-**Uygulama çalışmıyor**  
-→ Yönetici olarak çalıştır  
-
-**Ping yüksek**  
-→ Farklı metot dene (-7 veya -9)  
-
-**Bağlantı kopuyor**  
-→ Otomatik yeniden bağlanmayı aç  
-
----
-
-## 🔒 Güvenlik
-
-- Sistem üzerinde güvenli şekilde çalışır  
-- Zararlı işlem yapmaz  
-- Ayarlar cihaz içinde saklanır  
-
----
-
-## 📌 Not
-
-OpenDPI X sürekli geliştirilmektedir. Yeni özellikler ve iyileştirmeler ilerleyen sürümlerde eklenecektir.
-
----
-
-## 👨‍💻 Geliştirici
-
-**Nebi Şaylan**
+**Sağlıcakla Kalın.** 💙
