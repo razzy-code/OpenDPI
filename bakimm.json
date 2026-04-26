@@ -1,1 +1,6 @@
-
+{
+  "maintenance": false,
+  "message": "Sistem aktif",
+  "title": "Bakım",
+  "allowAccess": true
+}
